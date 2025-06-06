@@ -267,16 +267,6 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/incr/mstdev]: https://github.com/stdlib-js/stats-incr-mstdev
-
-[@stdlib/stats/incr/mmean]: https://github.com/stdlib-js/stats-incr-mmean
-
-[@stdlib/stats/incr/msummary]: https://github.com/stdlib-js/stats-incr-msummary
-
-[@stdlib/stats/incr/mvariance]: https://github.com/stdlib-js/stats-incr-mvariance
-
-[@stdlib/stats/incr/stdev]: https://github.com/stdlib-js/stats-incr-stdev
-
 <!-- </related-links> -->
 
 </section>
