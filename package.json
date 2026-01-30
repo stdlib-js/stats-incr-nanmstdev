@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-incr-nanmstdev",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute a moving corrected sample standard deviation incrementally, ignoring NaN values.",
   "license": "Apache-2.0",
   "author": {
