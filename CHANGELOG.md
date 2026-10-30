@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-13)
+## Unreleased (2026-10-30)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`d770ac4`](https://github.com/stdlib-js/stdlib/commit/d770ac4bf1e14e5028877ff482c03c0253bbc70f) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`5c4b613`](https://github.com/stdlib-js/stdlib/commit/5c4b61336167ea0936140e859f85df7f52278e63) - **docs:** update descriptions and clean-up [(#15625)](https://github.com/stdlib-js/stdlib/pull/15625) _(by Philipp Burckhardt)_
 -   [`a44775f`](https://github.com/stdlib-js/stdlib/commit/a44775f5510ca16abb01df1466bf8805b9cf9c30) - **test:** migrate `stats/incr/nanmstdev` to ULP-based assertions [(#15072)](https://github.com/stdlib-js/stdlib/pull/15072) _(by Athan Reines)_
 -   [`a07ad1c`](https://github.com/stdlib-js/stdlib/commit/a07ad1c13b9d2428b8897f47c6c78c6bfb0a235d) - **bench:** refactor to use string interpolation in `stats/incr` [(#11394)](https://github.com/stdlib-js/stdlib/pull/11394) _(by Karan Anand)_
 
@@ -25,10 +27,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
